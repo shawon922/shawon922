@@ -1,5 +1,5 @@
 ### Hi there, this is Md Mahfuzur Rahman! 👋
-I am a Python Developer from Dhaka, Bangladesh. You can find me on [![LinkedIn][3.2]][3].
+I am a Software Engineer from Dhaka, Bangladesh. You can find me on [![LinkedIn][3.2]][3].
 - 🔭 <b>Currently working on:</b> Python, Django, DRF, Celery
 - 👯 Interested to collaborate on Python Open Source Projects
 - 🌱 <b>Getting better at:</b> Data Structures & Algorithms
@@ -11,24 +11,24 @@ I am a Python Developer from Dhaka, Bangladesh. You can find me on [![LinkedIn][
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/shawon922">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon922&count_private=true&hide=dockerfile,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon922&count_private=true&include_all_commits=true&hide=dockerfile,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=radical" />
 </a>
 <a href="https://github.com/shawon922">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawon922&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Md Mahfuzur Rahman's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawon922&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=radical" alt="Md Mahfuzur Rahman's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+[1.1]: http://i.imgur.com/tXSoThF.png "Md Mahfuzur Rahman on Twitter"
+[2.1]: http://i.imgur.com/0o48UoR.png "Md Mahfuzur Rahman on Github"
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: https://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
+[1.2]: https://i.imgur.com/wWzX9uB.png "Md Mahfuzur Rahman on Twitter"
+[2.2]: https://i.imgur.com/9I6NRUm.png "Md Mahfuzur Rahman on Github"
+[3.2]: https://i.imgur.com/dgXzJ9j.png "Md Mahfuzur Rahman on Linked-In"
 
 <!-- links to your social media accounts -->
 
